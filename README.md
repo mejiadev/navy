@@ -2,4 +2,4 @@
 Simple game
 
 
-Batleship Game simple AF on C
+Shell based Batleship Game simple AF on C++
